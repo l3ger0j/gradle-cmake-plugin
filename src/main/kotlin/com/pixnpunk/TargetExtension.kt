@@ -1,5 +1,5 @@
 /**
- * Copyright 2019 Marco Freudenberger Copyright 2023 Welby Seely
+ * Copyright 2019 Marco Freudenberger Copyright 2023 Welby Seely Copyright 2025 l3ger0j
  *
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
